@@ -57,7 +57,9 @@ The IPL dataset used in this project contains ball-by-ball data of all IPL match
 
 - **Setup Databricks**:
   - Create a new cluster on Databricks.
+  ![Databricks Cluster](screenshots/cluster.jpg)
   - Import the notebook files and attach them to your cluster.
+  ![Databricks Notebook](screenshots/databricks-notebook.jpg)
   - Execute the cells to run the data transformation and analysis steps.
 
 ### Data Visualizations
